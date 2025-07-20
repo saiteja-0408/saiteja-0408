@@ -101,7 +101,7 @@ I’m **Saiteja Singirikonda**, a **Cloud and Automation Engineer** who turns 
 <a href="https://saiteja-s.lovable.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-0ab0f0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:saitejasingirikonda@gmail.com">
+<a href="mailto:s.saiteja4820@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
