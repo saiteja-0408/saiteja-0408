@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/saiteja-singirikonda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:saitejasingirikonda@gmail.com">
+  <a href="mailto:s.saiteja4820@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=saiteja-0408&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
