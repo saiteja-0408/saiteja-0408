@@ -3,9 +3,16 @@
 <!-- ──────────────────────────────────────────────────────────── -->
 
 <!-- Animated Banner (Capsule Render) -->
-<p align="center">
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0ab0f0,562fff&text=Saiteja%20Singirikonda&fontAlignY=40&fontSize=55&fontColor=ffffff&desc=Cloud%20%26%20Automation%20Engineer%20%E2%80%A2%20Full‑Stack%20Developer&descSize=16&descAlign=50&descAlignY=65" alt="Saiteja Singirikonda banner"/>
+</p>-->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0%3A0ab0f0%2C100%3A562fff&amp;text=Saiteja%20Singirikonda&amp;fontSize=55&amp;fontAlignY=40&amp;fontColor=ffffff&amp;desc=Cloud%20%26%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&amp;descSize=16&amp;descAlign=50&amp;descAlignY=70"
+    alt="Saiteja Singirikonda banner"
+/>
 </p>
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0AB0F0&width=460&lines=Automate.+Accelerate.+Scale." alt="Typing SVG"/>
