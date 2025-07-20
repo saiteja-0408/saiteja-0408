@@ -75,6 +75,23 @@ I’m **Saiteja Singirikonda**, a **Cloud and Automation Engineer** who turns 
 
 ---
 
+## 🛎️ Services I Offer
+
+| 🚀 Service | What I Deliver | Key Tech |
+|-----------|---------------|----------|
+| **Cloud & Automation Engineering** | • End‑to‑end CI/CD pipelines <br>• Infrastructure‑as‑Code (IaC) with Terraform / AWS CDK <br>• Serverless data workflows (Lambda · EventBridge · Step Functions) | ![AWS](https://skillicons.dev/icons?i=aws) ![docker](https://skillicons.dev/icons?i=docker) ![githubactions](https://skillicons.dev/icons?i=githubactions) |
+| **Backend Development** | • REST/GraphQL APIs in Python / Node / Java <br>• Micro‑services, caching, message queues <br>• Unit & integration test automation (PyTest, Jest) | ![python](https://skillicons.dev/icons?i=python) ![nodejs](https://skillicons.dev/icons?i=nodejs) ![java](https://skillicons.dev/icons?i=java) |
+| **Low‑Code Solutions (Unqork)** | • Drag‑and‑drop app builds & data models <br>• Workflow design & module promotions <br>• Integrations with REST / SOAP / Azure AI Form Recognizer | ![unqork](https://img.shields.io/badge/-Unqork-0ab0f0?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDMwIDM0IiB3aWR0aD0iODgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjUyMyA0LjQ0MkwxNC4yMjggMkw2IDMuMTI0bDIuMzI4IDExLjM2MCAxLjc2NCA5LjMxIDQuNTgyIDEuMzYgNi44NS0yLjE5eiIvPjwvc3ZnPg==) |
+| **Data Science & ML POCs** | • Data wrangling & visualization <br>• Quick‑turn ML prototypes (scikit‑learn, TensorFlow) <br>• Model → API deployment on AWS SageMaker | ![pandas](https://skillicons.dev/icons?i=pandas) ![tensorflow](https://skillicons.dev/icons?i=tensorflow) ![sagemaker](https://img.shields.io/badge/-SageMaker-yellow?style=flat-square&logo=amazonaws) |
+| **Tech Mentorship & Workshops** | • One‑on‑one coaching for Python, AWS, Unqork <br>• Live coding sessions & code reviews <br>• Interview prep (DSA + system design) | ![python](https://skillicons.dev/icons?i=python) ![aws](https://skillicons.dev/icons?i=aws) ![terminal](https://skillicons.dev/icons?i=linux) |
+
+<sub>Need something not listed? Feel free to <a href="mailto:s.saiteja4820@gmail.com">drop me a line</a>—happy to discuss custom solutions.</sub>
+
+---
+
+
+---
+
 ## 🌱 Learning / Exploring
 **GenAI test‑data agents • Event‑driven AWS architectures • OpenTelemetry pipelines**
 
